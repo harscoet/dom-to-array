@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "dom-to-array",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
